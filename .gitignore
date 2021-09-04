@@ -3,3 +3,4 @@ FizzBuzzGame/obj/
 FizzBuzzGameTests/bin/
 FizzBuzzGameTests/obj/
 packages/
+.vs/
